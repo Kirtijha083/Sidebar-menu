@@ -1,3 +1,4 @@
+<!-- This is readme file -->
 # Mini Sidebar Menu
 This project is a Mini Sidebar Menu designed using HTML and CSS. It represents an interactive, visually appealing navigation bar for a photography webpage. This project also showcases your first steps into web development.
 
@@ -32,4 +33,4 @@ Demonstrated the ability to build a user-friendly interface for a photography we
 This was my first project, reflecting my journey into web development and showcasing my passion for designing interactive web interfaces.
 
 
-# Created by Kumari Kirti Jha
+# Created by Kumari_Kirti _Jha
